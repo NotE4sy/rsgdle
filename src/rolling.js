@@ -74,7 +74,7 @@ function generate_times() {
         Math.floor(Math.random() * (300 - 120 + 1)) + 120, // bastion
         Math.floor(Math.random() * (150 - 60 + 1)) + 60, // fortress
         Math.floor(Math.random() * (210 - 60 + 1)) + 60, // blind
-        Math.floor(Math.random() * (240 - 20 + 1)) + 20, // stronghold
+        Math.floor(Math.random() * (180 - 20 + 1)) + 20, // stronghold
         Math.floor(Math.random() * (210 - 46 + 1)) + 46 // end
     ];
 
